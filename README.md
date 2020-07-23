@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome stranger 👋
 
-<!--
-**JohannesPtaszyk/JohannesPtaszyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hope you are well and feeling all good!
 
-Here are some ideas to get you started:
+#### First thing: 3 Things you should know about me 💡
+* I am a passionate software developer, who currently feels at home in the Android world
+* I buy lots of books, but do rarely read
+* I love learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My favorite quote 📖
+> Run like hell, because you always need to. <br>
+> Laugh at everything, because it's always funny. <br>
+> Never be cruel and never be cowardly. <br>
+> And if you ever are, always make amends. <br>
+- The Doctor
