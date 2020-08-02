@@ -37,7 +37,7 @@ You can find all kinds of information about me below if you like to.
 * Data sience with Python data science stack (Pandas, Numpy etc.)
 * Cloud platforms (AWS, Google Cloud, Azure ..)
 
-## My gists
+## My gists 
 https://gist.github.com/JohannesPtaszyk
 
 ## My favorite quote 📖
