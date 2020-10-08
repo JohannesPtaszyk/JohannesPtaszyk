@@ -28,6 +28,7 @@ You can find all kinds of information about me below if you like to.
 * Jetpack/Androidx
 * ktLint
 * LeakCanary
+* Flipper
 
 ### Others ❓
 * Hugo static site generator
