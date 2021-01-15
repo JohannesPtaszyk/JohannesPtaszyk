@@ -34,6 +34,7 @@ You can find all kinds of information about me below if you like to.
 * Hugo static site generator
 
 ## Things I want to learn/improve on 🎓
+* Server-side development
 * Webstack (HTML, CSS, JS)
 * Data sience with Python data science stack (Pandas, Numpy etc.)
 * Cloud platforms (AWS, Google Cloud, Azure ..)
