@@ -1,49 +1,20 @@
-# Welcome stranger, I am Johannes 👋
+# 💫 About Me:
+🐶 I’m currently working on creating the best app for pet owners @ FRESSNAPF | MAXI ZOO<br>🤝 I’m looking for help with getting better at backend development<br>🌱 I’m currently learning Spring Boot & system design<br>💬 Ask me about my dog!<br>⚡ Fun fact: I got into programming by accident and immediately loved it
 
-I hope you are well and feeling all good!
-You can find all kinds of information about me below if you like to.
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=jptaszyk)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## 3 Things you should know about me 💡
-* I am a passionate software developer, who currently feels at home in the Android world
-* I buy lots of books, but do rarely read
-* I love learning new things
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jo_hannes_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johannes-ptaszyk-1374ab1a5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jptaszyk) 
 
-## Whats in my toolbelt 🛠
+# 💻 Tech Stack:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JohannesPtaszyk&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JohannesPtaszyk&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesPtaszyk&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Languages 📣
-* Kotlin
-* Java
+---
+[![](https://visitcount.itsvg.in/api?id=JohannesPtaszyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Ides/Editors 📝
-* AndroidStudio
-* Intellij
-* VSCode
-
-### Terminal/Shell 📄
-* oh my zsh
-* iTerm (mac)
-
-### Android development 🤖
-* ADB
-* Jetpack/Androidx
-* ktLint
-* LeakCanary
-* Flipper
-
-### Others ❓
-* Hugo static site generator
-
-## Things I want to learn/improve on 🎓
-* Server-side development
-* Webstack (HTML, CSS, JS)
-* Data sience with Python data science stack (Pandas, Numpy etc.)
-* Cloud platforms (AWS, Google Cloud, Azure ..)
-
-## My gists 
-https://gist.github.com/JohannesPtaszyk
-
-## My favorite quote 📖
-> Run like hell, because you always need to. <br>
-> Laugh at everything, because it's always funny. <br>
-> Never be cruel and never be cowardly. <br>
-> And if you ever are, always make amends. <br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
